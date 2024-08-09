@@ -1,6 +1,6 @@
 <h1> Hamburger Resturant </h1>
 
-Bır resturant uygulamasıdır. Kullanıcılara hızmet saglar
+Bır restaurant uygulamasıdır. Kullanıcılara hızmet saglar
 
 <h2> Harıcı Ozellıkler</h2>
 
